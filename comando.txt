@@ -1,0 +1,1 @@
+"build.github.lib": "ng build githubUserWidget && cp -R ./projects/github-user-widget/src/lib/assets ./dist/github-user-widget/lib"

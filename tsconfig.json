@@ -17,6 +17,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "github-user-widget": [
+        "dist/github-user-widget"
+      ],
+      "github-user-widget/*": [
+        "dist/github-user-widget/*"
+      ]
+    }
   }
 }
