@@ -5,5 +5,16 @@
     "@angular/common": "^7.2.0",
     "@angular/core": "^7.2.0",
     "proyecto-1b-api-github": "^1.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm-js-ts-angular-modules-course/proyecto-3-libreria-angular.git"
+  },
+  "keywords": [],
+  "author": "Anartz Mugika Ledo <mugan86@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/npm-js-ts-angular-modules-course/proyecto-3-libreria-angular/issues"
+  },
+  "homepage": "https://github.com/npm-js-ts-angular-modules-course/proyecto-3-libreria-angular#readme"
 }
