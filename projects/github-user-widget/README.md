@@ -41,7 +41,11 @@ En src/styles de la app principal importamos
 ```
 ### Uso
 * Con buscador
+```
 <guw-buscador-usuario></guw-buscador-usuario>
+```
 
 * Sin buscador
+```
 <guw-usuario [busqueda]="<usuario_a_buscar>"></guw-usuario>
+```
