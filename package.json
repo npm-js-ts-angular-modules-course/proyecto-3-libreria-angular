@@ -8,7 +8,9 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "build.github.lib": "ng build githubUserWidget && cp -R ./projects/github-user-widget/src/lib/assets ./dist/github-user-widget/lib"
+    "build.github.lib": "ng build githubUserWidget && cp -R ./projects/github-user-widget/src/lib/assets ./dist/github-user-widget/lib",
+    "publish.github.lib": "cd ./dist/github-user-widget/ && npm publish"
+
   },
   "private": true,
   "dependencies": {
