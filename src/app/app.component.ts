@@ -1,3 +1,4 @@
+import { ApiService } from './../../projects/mugan86-youtube-api/src/lib/services/api.service';
 import { ModalService } from './../../projects/mugan86-youtube-api/src/lib/services/modal.service';
 import { Component } from '@angular/core';
 
@@ -9,7 +10,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'libreriasAngular';
 
-  constructor(private modal: ModalService) {}
+  constructor(private modal: ModalService, private api: ApiService) {}
 
   show() {
     this.modal.show('');
