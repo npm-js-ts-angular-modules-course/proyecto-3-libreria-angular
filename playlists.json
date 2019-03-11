@@ -1,0 +1,227 @@
+{
+    "kind": "youtube#playlistListResponse",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/JqtweMKucnOczei3q5e70SbaLj0\"",
+    "nextPageToken": "CAUQAA",
+    "pageInfo": {
+     "totalResults": 46,
+     "resultsPerPage": 5
+    },
+    "items": [
+     {
+      "kind": "youtube#playlist",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/GUIhGTyxkxWRvq6svs0YXbp7cLw\"",
+      "id": "PLaaTcPGicjqiyuOFrie6fXVyUGJNp9yFe",
+      "snippet": {
+       "publishedAt": "2018-09-13T19:44:16.000Z",
+       "channelId": "UCTh7-deUJBNv2tHRiMGcXxg",
+       "title": "Tomb Raider - Shadow of the Tomb Raider History",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/ElhRx9jwPm0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/ElhRx9jwPm0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/ElhRx9jwPm0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Anartz Mugika Ledo",
+       "localized": {
+        "title": "Tomb Raider - Shadow of the Tomb Raider History",
+        "description": ""
+       }
+      },
+      "contentDetails": {
+       "itemCount": 4
+      }
+     },
+     {
+      "kind": "youtube#playlist",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/b3QNFAsjsIXu1FCvnoI9CMeqNQQ\"",
+      "id": "PLaaTcPGicjqg75-s8EzpcFsbvf8APTFeN",
+      "snippet": {
+       "publishedAt": "2018-01-07T05:54:14.000Z",
+       "channelId": "UCTh7-deUJBNv2tHRiMGcXxg",
+       "title": "Uncharted 4  - El Desenlace del Ladrón  - Nivel Dificil",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/PRZjfUFCiMQ/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/PRZjfUFCiMQ/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/PRZjfUFCiMQ/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        },
+        "standard": {
+         "url": "https://i.ytimg.com/vi/PRZjfUFCiMQ/sddefault.jpg",
+         "width": 640,
+         "height": 480
+        },
+        "maxres": {
+         "url": "https://i.ytimg.com/vi/PRZjfUFCiMQ/maxresdefault.jpg",
+         "width": 1280,
+         "height": 720
+        }
+       },
+       "channelTitle": "Anartz Mugika Ledo",
+       "localized": {
+        "title": "Uncharted 4  - El Desenlace del Ladrón  - Nivel Dificil",
+        "description": ""
+       }
+      },
+      "contentDetails": {
+       "itemCount": 2
+      }
+     },
+     {
+      "kind": "youtube#playlist",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/p2dU1Yo5jDfZn82iRfvIWXLFA60\"",
+      "id": "PLaaTcPGicjqizIvHozSm0gfZq3YhAi5EA",
+      "snippet": {
+       "publishedAt": "2017-04-27T04:27:53.000Z",
+       "channelId": "UCTh7-deUJBNv2tHRiMGcXxg",
+       "title": "Rise of the Tomb Raider - History in direct",
+       "description": "History and DLCs in Direct!",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/izCEVW3Mm6I/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/izCEVW3Mm6I/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/izCEVW3Mm6I/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        },
+        "standard": {
+         "url": "https://i.ytimg.com/vi/izCEVW3Mm6I/sddefault.jpg",
+         "width": 640,
+         "height": 480
+        },
+        "maxres": {
+         "url": "https://i.ytimg.com/vi/izCEVW3Mm6I/maxresdefault.jpg",
+         "width": 1280,
+         "height": 720
+        }
+       },
+       "channelTitle": "Anartz Mugika Ledo",
+       "localized": {
+        "title": "Rise of the Tomb Raider - History in direct",
+        "description": "History and DLCs in Direct!"
+       }
+      },
+      "contentDetails": {
+       "itemCount": 9
+      }
+     },
+     {
+      "kind": "youtube#playlist",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/rpZ8hy2d8lfk0JqNTkzODro_OuI\"",
+      "id": "PLaaTcPGicjqiI8_txi2xc7Ur-H9IGj7zy",
+      "snippet": {
+       "publishedAt": "2017-04-24T05:44:15.000Z",
+       "channelId": "UCTh7-deUJBNv2tHRiMGcXxg",
+       "title": "Little Big Planet 3 - Walktrough Live Screens",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/A65yQv2b0iM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/A65yQv2b0iM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/A65yQv2b0iM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        },
+        "maxres": {
+         "url": "https://i.ytimg.com/vi/A65yQv2b0iM/maxresdefault.jpg",
+         "width": 1280,
+         "height": 720
+        }
+       },
+       "channelTitle": "Anartz Mugika Ledo",
+       "localized": {
+        "title": "Little Big Planet 3 - Walktrough Live Screens",
+        "description": ""
+       }
+      },
+      "contentDetails": {
+       "itemCount": 4
+      }
+     },
+     {
+      "kind": "youtube#playlist",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/M7XusCplyrZ47KiCFuOSfWvE-TM\"",
+      "id": "PLaaTcPGicjqhX02p3X4cq95uWWDDW6Q16",
+      "snippet": {
+       "publishedAt": "2016-08-21T17:07:25.000Z",
+       "channelId": "UCTh7-deUJBNv2tHRiMGcXxg",
+       "title": "Go Pro Videos",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/kiex7vbN_6o/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/kiex7vbN_6o/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/kiex7vbN_6o/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        },
+        "standard": {
+         "url": "https://i.ytimg.com/vi/kiex7vbN_6o/sddefault.jpg",
+         "width": 640,
+         "height": 480
+        },
+        "maxres": {
+         "url": "https://i.ytimg.com/vi/kiex7vbN_6o/maxresdefault.jpg",
+         "width": 1280,
+         "height": 720
+        }
+       },
+       "channelTitle": "Anartz Mugika Ledo",
+       "localized": {
+        "title": "Go Pro Videos",
+        "description": ""
+       }
+      },
+      "contentDetails": {
+       "itemCount": 3
+      }
+     }
+    ]
+   }
+   

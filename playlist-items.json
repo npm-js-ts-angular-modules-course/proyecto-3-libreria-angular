@@ -1,0 +1,217 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/le6VXDXsBjp2Oh8hr7vtGxvrpjA\"",
+    "nextPageToken": "CAUQAA",
+    "pageInfo": {
+     "totalResults": 716,
+     "resultsPerPage": 5
+    },
+    "items": [
+     {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/UieNWhftDUX5I_03kXjcswkFi28\"",
+      "id": "VVVUaDctZGVVSkJOdjJ0SFJpTUdjWHhnLk5wTDRCam43V1Nv",
+      "snippet": {
+       "publishedAt": "2018-10-25T06:52:43.000Z",
+       "channelId": "UCTh7-deUJBNv2tHRiMGcXxg",
+       "title": "Instalación de composer para dependencias PHP",
+       "description": "Video que explica los pasos necesarios para instalar composer en nuestro equipo para poder administrar dependencias de PHP como se hace con npm para dependencias de Node.\n\nPara poder instalarlo es necesario tener mínimo la versión 5.3.2 de PHP que podremos obtenerla instalando XAMPP, necesario para trabajar con PHP y MySQL en proyectos de manera local.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/NpL4Bjn7WSo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/NpL4Bjn7WSo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/NpL4Bjn7WSo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        },
+        "standard": {
+         "url": "https://i.ytimg.com/vi/NpL4Bjn7WSo/sddefault.jpg",
+         "width": 640,
+         "height": 480
+        },
+        "maxres": {
+         "url": "https://i.ytimg.com/vi/NpL4Bjn7WSo/maxresdefault.jpg",
+         "width": 1280,
+         "height": 720
+        }
+       },
+       "channelTitle": "Anartz Mugika Ledo",
+       "playlistId": "UUTh7-deUJBNv2tHRiMGcXxg",
+       "position": 0,
+       "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NpL4Bjn7WSo"
+       }
+      },
+      "contentDetails": {
+       "videoId": "NpL4Bjn7WSo",
+       "videoPublishedAt": "2018-10-25T06:52:43.000Z"
+      }
+     },
+     {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/aZ6DJMU3LCL83IhvnSgzrMwcGnU\"",
+      "id": "VVVUaDctZGVVSkJOdjJ0SFJpTUdjWHhnLlhHSEE1WDJ3ZEFj",
+      "snippet": {
+       "publishedAt": "2018-09-21T16:32:49.000Z",
+       "channelId": "UCTh7-deUJBNv2tHRiMGcXxg",
+       "title": "Tomb Raider  - Shadow of the Tomb Raider PS4  #8",
+       "description": "La temática del canal trata sobre todo de walktroughs de juegos actuales principalmente.\n\nSi quereís más información acerca de que hardware utilizo para grabar, que proyectos tengo completados, en proceso o en mis planes, entrad en el FAQ sobre mi canal que el enlace está justo debajo de esta descripción.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/XGHA5X2wdAc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/XGHA5X2wdAc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/XGHA5X2wdAc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Anartz Mugika Ledo",
+       "playlistId": "UUTh7-deUJBNv2tHRiMGcXxg",
+       "position": 1,
+       "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XGHA5X2wdAc"
+       }
+      },
+      "contentDetails": {
+       "videoId": "XGHA5X2wdAc",
+       "videoPublishedAt": "2018-09-21T16:32:49.000Z"
+      }
+     },
+     {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/4KyQttHMDzI89dLWGYK3_KsOfdw\"",
+      "id": "VVVUaDctZGVVSkJOdjJ0SFJpTUdjWHhnLk1lLVdOaFM2NkQw",
+      "snippet": {
+       "publishedAt": "2018-09-20T15:58:42.000Z",
+       "channelId": "UCTh7-deUJBNv2tHRiMGcXxg",
+       "title": "Tomb Raider  - Shadow of the Tomb Raider PS4  #7",
+       "description": "La temática del canal trata sobre todo de walktroughs de juegos actuales principalmente.\n\nSi quereís más información acerca de que hardware utilizo para grabar, que proyectos tengo completados, en proceso o en mis planes, entrad en el FAQ sobre mi canal que el enlace está justo debajo de esta descripción.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/Me-WNhS66D0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/Me-WNhS66D0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/Me-WNhS66D0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Anartz Mugika Ledo",
+       "playlistId": "UUTh7-deUJBNv2tHRiMGcXxg",
+       "position": 2,
+       "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Me-WNhS66D0"
+       }
+      },
+      "contentDetails": {
+       "videoId": "Me-WNhS66D0",
+       "videoPublishedAt": "2018-09-20T15:58:42.000Z"
+      }
+     },
+     {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/eZk7qjW3LxsAMkBwkr4sv0RDywQ\"",
+      "id": "VVVUaDctZGVVSkJOdjJ0SFJpTUdjWHhnLm9fRkRvekloVV9n",
+      "snippet": {
+       "publishedAt": "2018-09-18T19:56:18.000Z",
+       "channelId": "UCTh7-deUJBNv2tHRiMGcXxg",
+       "title": "Tomb Raider  - Shadow of the Tomb Raider PS4  #6",
+       "description": "La temática del canal trata sobre todo de walktroughs de juegos actuales principalmente.\n\nSi quereís más información acerca de que hardware utilizo para grabar, que proyectos tengo completados, en proceso o en mis planes, entrad en el FAQ sobre mi canal que el enlace está justo debajo de esta descripción.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/o_FDozIhU_g/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/o_FDozIhU_g/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/o_FDozIhU_g/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Anartz Mugika Ledo",
+       "playlistId": "UUTh7-deUJBNv2tHRiMGcXxg",
+       "position": 3,
+       "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "o_FDozIhU_g"
+       }
+      },
+      "contentDetails": {
+       "videoId": "o_FDozIhU_g",
+       "videoPublishedAt": "2018-09-18T19:56:18.000Z"
+      }
+     },
+     {
+      "kind": "youtube#playlistItem",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/pQzLnS3cbvWIMdhTYbm5O4RetdE\"",
+      "id": "VVVUaDctZGVVSkJOdjJ0SFJpTUdjWHhnLml0bkczbUUtS1pv",
+      "snippet": {
+       "publishedAt": "2018-09-17T17:49:46.000Z",
+       "channelId": "UCTh7-deUJBNv2tHRiMGcXxg",
+       "title": "Tomb Raider  - Shadow of the Tomb Raider PS4  #5",
+       "description": "La temática del canal trata sobre todo de walktroughs de juegos actuales principalmente.\n\nSi quereís más información acerca de que hardware utilizo para grabar, que proyectos tengo completados, en proceso o en mis planes, entrad en el FAQ sobre mi canal que el enlace está justo debajo de esta descripción.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/itnG3mE-KZo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/itnG3mE-KZo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/itnG3mE-KZo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Anartz Mugika Ledo",
+       "playlistId": "UUTh7-deUJBNv2tHRiMGcXxg",
+       "position": 4,
+       "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "itnG3mE-KZo"
+       }
+      },
+      "contentDetails": {
+       "videoId": "itnG3mE-KZo",
+       "videoPublishedAt": "2018-09-17T17:49:46.000Z"
+      }
+     }
+    ]
+   }
+   
