@@ -1,8 +1,9 @@
+import { HttpClientModule } from '@angular/common/http';
 import { ConfigService } from './services/config.service';
 import { Config } from './interfaces/config';
 import { NgModule } from '@angular/core';
 import { Mugan86YoutubeApiComponent } from './mugan86-youtube-api.component';
-import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { YoutubePipe } from './pipes/youtube.pipe';
 import { DomSecurePipe } from './pipes/dom-secure.pipe';
 import { VideoPlayerComponent } from './components/video-player/video-player.component';
@@ -10,14 +11,24 @@ import { ChannelComponent } from './components/channel/channel.component';
 import { ModalVideoComponent } from './components/modal-video/modal-video.component';
 import { throwError } from 'rxjs';
 import { DateHourPipe } from './pipes/date-hour.pipe';
+import { PlaylistItemsComponent } from './components/playlist-items/playlist-items.component';
+import { UserLastPlaylistComponent } from './components/user-last-playlist/user-last-playlist.component';
 
-const COMPONENTS = [Mugan86YoutubeApiComponent, VideoPlayerComponent, ChannelComponent, ModalVideoComponent];
+const COMPONENTS = [
+  Mugan86YoutubeApiComponent,
+  VideoPlayerComponent,
+  ChannelComponent,
+  ModalVideoComponent,
+  PlaylistItemsComponent,
+  UserLastPlaylistComponent
+];
 const PIPES = [YoutubePipe, DomSecurePipe, DateHourPipe];
 
 @NgModule({
   declarations: [...COMPONENTS, ...PIPES],
   imports: [
-    NgbModule
+    NgbModule,
+    HttpClientModule
   ],
   exports: [...COMPONENTS, ...PIPES],
   entryComponents: [
