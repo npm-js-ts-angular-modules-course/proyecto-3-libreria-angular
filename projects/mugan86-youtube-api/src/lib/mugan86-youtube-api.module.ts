@@ -13,6 +13,7 @@ import { throwError } from 'rxjs';
 import { DateHourPipe } from './pipes/date-hour.pipe';
 import { PlaylistItemsComponent } from './components/playlist-items/playlist-items.component';
 import { UserLastPlaylistComponent } from './components/user-last-playlist/user-last-playlist.component';
+import { CommonModule } from '@angular/common';
 
 const COMPONENTS = [
   Mugan86YoutubeApiComponent,
@@ -28,7 +29,8 @@ const PIPES = [YoutubePipe, DomSecurePipe, DateHourPipe];
   declarations: [...COMPONENTS, ...PIPES],
   imports: [
     NgbModule,
-    HttpClientModule
+    HttpClientModule,
+    CommonModule
   ],
   exports: [...COMPONENTS, ...PIPES],
   entryComponents: [

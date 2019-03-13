@@ -58,7 +58,7 @@ export class ApiService {
     return this.http.get(this.getUrl(`playlistItems?${this.info}&playlistId=${ playlistId }${pageToken}`)).pipe(
       map(
         ( res: PlaylistItems ) => {
-          this.pageToken = res.nextPageToken;
+          this.pageToken = (res.nextPageToken) ? res.nextPageToken : 'OK';
           this.playlistVideos = this.takeVideos(res.items);
           return this.playlistVideos;
         }
