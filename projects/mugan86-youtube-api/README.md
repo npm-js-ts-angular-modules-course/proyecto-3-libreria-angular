@@ -36,3 +36,7 @@ import { Mugan86YoutubeApiModule } from 'mugan86-youtube-api';
 export class AppModule { }
 
 ```
+
+Una vez que ya tenemos añadido el módulo en nuestro proyecto de Angular, podemos usar las opciones que tiene disponibles como mostrar la información del canal de un usuario, mostrar la lista de los últimos playlist añadidos por un usuario y también podemos visualizar la lista de todos los videos de un playlist seleccionado.
+
+### Mostrar información del canal de usuario
