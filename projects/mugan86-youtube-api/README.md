@@ -1,0 +1,38 @@
+# Youtube API library
+
+En este librería vamos a obtener la información haciendo uso de la API de Youtube obteniendo la información y mostrándola en estos casos:
+
+* Información del canal de un usuario seleccionado
+* Últimas playlist añadidas por un usuario
+* Videos que componen una playlist seleccionada
+
+## Instrucciones de instalación
+
+Para poder hacer uso de esta librería, necesitamos instalar la librería con el siguiente comando
+```
+npm install mugan86-youtube-api
+```
+
+## Instrucciones de uso
+
+Para hacer uso de esta librería, una vez que lo tenemos instalado, simplemente tenemos que importar el módulo en nuestra aplicación de Angular de la siguiente manera teniendo en cuenta que tenemos que meter por parámetro la API Key para poder hacer uso de la API de Youtube quedando de la siguiente manera:
+```
+import { Mugan86YoutubeApiModule } from 'mugan86-youtube-api';
+...
+
+@NgModule({
+  declarations: [
+    AppComponent
+  ],
+  imports: [
+    ...
+    Mugan86YoutubeApiModule.forRoot({
+      apiKey: 'API KEY Value
+    })
+  ],
+  providers: [],
+  bootstrap: [AppComponent]
+})
+export class AppModule { }
+
+```
