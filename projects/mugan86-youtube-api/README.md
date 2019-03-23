@@ -40,14 +40,20 @@ export class AppModule { }
 Una vez que ya tenemos añadido el módulo en nuestro proyecto de Angular, podemos usar las opciones que tiene disponibles como mostrar la información del canal de un usuario, mostrar la lista de los últimos playlist añadidos por un usuario y también podemos visualizar la lista de todos los videos de un playlist seleccionado.
 
 ### Mostrar información del canal de usuario
+
+Por ejemplo, la información de canal de **mugan86**, que hace uso de este ID de este canal: **'UCTh7-deUJBNv2tHRiMGcXxg'**
 ```
 <mugan86-yt-api-channel [channelId]="'UCTh7-deUJBNv2tHRiMGcXxg'"></mugan86-yt-api-channel>
 ```
 ### Últimas listas de reproducción añadidas por el usuario
+
+Por ejemplo, los videos subidos por **mugan86**, que hace uso de este ID de este canal: **'UCTh7-deUJBNv2tHRiMGcXxg'**
 ```
 <mugan86-yt-api-user-last-playlist [channelId]="'UCTh7-deUJBNv2tHRiMGcXxg'"></mugan86-yt-api-user-last-playlist>
 ```
 ### Videos de una lista de reproducción (Playlist)
+
+Por ejemplo, los videos subidos por mugan86, que hace uso de este ID de playlist: **'UUTh7-deUJBNv2tHRiMGcXxg'**
 ```
 <mugan86-yt-api-playlist-items [playlistId]="'UUTh7-deUJBNv2tHRiMGcXxg'"></mugan86-yt-api-playlist-items>
 ```
