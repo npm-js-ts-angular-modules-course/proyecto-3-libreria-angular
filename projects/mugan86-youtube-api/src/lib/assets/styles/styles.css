@@ -22,6 +22,10 @@ h1 {
     height: 100%;
 }
 
+.modal-body p {
+    margin-top: 15px;
+}
+
 /** CHANNEL **/
 
 .channel {
@@ -58,4 +62,12 @@ h1 {
 .card {
     padding: 5px;
     margin-bottom: 10px;
+}
+
+.morevideos {
+    position: relative;
+    left: 41%;
+    width: 300px;
+    padding: 10px;
+    margin: 15px 0px 60px 0px;
 }

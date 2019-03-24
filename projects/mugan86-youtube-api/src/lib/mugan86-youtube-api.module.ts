@@ -14,6 +14,7 @@ import { DateHourPipe } from './pipes/date-hour.pipe';
 import { PlaylistItemsComponent } from './components/playlist-items/playlist-items.component';
 import { UserLastPlaylistComponent } from './components/user-last-playlist/user-last-playlist.component';
 import { CommonModule } from '@angular/common';
+import { ShortDescriptionPipe } from './pipes/short-description.pipe';
 
 const COMPONENTS = [
   Mugan86YoutubeApiComponent,
@@ -23,7 +24,7 @@ const COMPONENTS = [
   PlaylistItemsComponent,
   UserLastPlaylistComponent
 ];
-const PIPES = [YoutubePipe, DomSecurePipe, DateHourPipe];
+const PIPES = [YoutubePipe, DomSecurePipe, DateHourPipe, ShortDescriptionPipe];
 
 @NgModule({
   declarations: [...COMPONENTS, ...PIPES],

@@ -1,3 +1,4 @@
+import { Video } from './../../interfaces/video';
 import { NgbActiveModal } from '@ng-bootstrap/ng-bootstrap';
 import { Component, Input } from '@angular/core';
 
@@ -8,9 +9,7 @@ import { Component, Input } from '@angular/core';
 })
 export class ModalVideoComponent {
 
-  @Input() title: string;
-  @Input() body: string;
-  @Input() videoId: string;
+  @Input() video: Video;
   constructor(public modalService: NgbActiveModal) { }
 
 }

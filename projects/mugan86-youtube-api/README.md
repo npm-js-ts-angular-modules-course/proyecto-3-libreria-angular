@@ -28,6 +28,7 @@ import { Mugan86YoutubeApiModule } from 'mugan86-youtube-api';
     ...
     Mugan86YoutubeApiModule.forRoot({
       apiKey: 'API KEY Value
+      showLog: <Si queremos ver el log del Api Key introducido> (no es obligatorio)
     })
   ],
   providers: [],
@@ -57,3 +58,6 @@ Por ejemplo, los videos subidos por mugan86, que hace uso de este ID de playlist
 ```
 <mugan86-yt-api-playlist-items [playlistId]="'UUTh7-deUJBNv2tHRiMGcXxg'"></mugan86-yt-api-playlist-items>
 ```
+
+### Librería desarrollada por
+* Anartz Mugika ([mugan86](https://github.com/mugan86))

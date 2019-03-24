@@ -1,15 +1,12 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input } from '@angular/core';
 
 @Component({
   selector: 'mugan86-yt-api-video-player',
   templateUrl: './video-player.component.html',
   styles: []
 })
-export class VideoPlayerComponent implements OnInit {
+export class VideoPlayerComponent {
 
-  constructor() { }
-
-  ngOnInit() {
-  }
+  @Input() id: string;
 
 }

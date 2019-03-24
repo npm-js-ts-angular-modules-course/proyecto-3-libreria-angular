@@ -10,9 +10,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'libreriasAngular';
 
-  constructor(private modal: ModalService, private api: ApiService) {}
+  constructor(private api: ApiService) {}
 
-  show() {
-    this.modal.show('');
-  }
 }

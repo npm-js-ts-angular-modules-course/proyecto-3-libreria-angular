@@ -1,6 +1,8 @@
+import { Video } from './../../interfaces/video';
+import { Item } from './../../interfaces/api/playlis-items.interface';
+import { ModalService } from './../../services/modal.service';
 import { ApiService } from './../../services/api.service';
 import { Component, OnInit, Input } from '@angular/core';
-import { Item } from '../../interfaces/api/playlis-items.interface';
 
 @Component({
   selector: 'mugan86-yt-api-playlist-items',
@@ -11,7 +13,7 @@ export class PlaylistItemsComponent implements OnInit {
   @Input() playlistId: string;
   videos: Item[];
   noMoreVideos = false;
-  constructor(private api: ApiService) { }
+  constructor(private api: ApiService, private modal: ModalService) { }
 
   ngOnInit() {
     if (this.playlistId === undefined || this.playlistId === null || this.playlistId === '') {
@@ -37,6 +39,15 @@ export class PlaylistItemsComponent implements OnInit {
 
   loadMore() {
     this.loadData(true);
+  }
+
+  showVideo(video: Item) {
+    const videoItem: Video = {
+      id: video.snippet.resourceId.videoId,
+      title: video.snippet.title,
+      description: video.snippet.description
+    };
+    this.modal.show(videoItem);
   }
 
 }
