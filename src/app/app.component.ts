@@ -1,5 +1,4 @@
-import { ApiService } from './../../projects/mugan86-youtube-api/src/lib/services/api.service';
-import { ModalService } from './../../projects/mugan86-youtube-api/src/lib/services/modal.service';
+import { ApiService } from 'ng-youtube-api';
 import { Component } from '@angular/core';
 
 @Component({

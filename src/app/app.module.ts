@@ -1,4 +1,4 @@
-import { Mugan86YoutubeApiModule } from './../../projects/mugan86-youtube-api/src/lib/mugan86-youtube-api.module';
+import { Mugan86YoutubeApiModule } from 'ng-youtube-api';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
