@@ -1,0 +1,50 @@
+{
+    "kind": "youtube#channelListResponse",
+    "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/rsnQlTGHYbA-GfhNXZwIFywrplI\"",
+    "pageInfo": {
+     "totalResults": 1,
+     "resultsPerPage": 1
+    },
+    "items": [
+     {
+      "kind": "youtube#channel",
+      "etag": "\"XpPGQXPnxQJhLgs6enD_n8JR4Qk/gnqvL9B36LeVr_JGie_OsvQob0k\"",
+      "id": "UCTh7-deUJBNv2tHRiMGcXxg",
+      "snippet": {
+       "title": "Anartz Mugika Ledo",
+       "description": "La temática del canal trata sobre todo de walktroughs de juegos actuales principalmente.\n\nSi quereís más información acerca de que hardware utilizo para grabar, que proyectos tengo completados, en proceso o en mis planes, entrad en el FAQ sobre mi canal que el enlace está justo debajo de esta descripción.",
+       "customUrl": "mugan86",
+       "publishedAt": "2009-08-30T21:54:31.000Z",
+       "thumbnails": {
+        "default": {
+         "url": "https://yt3.ggpht.com/a-/AAuE7mCvPXKWGx91K7sVzn-Qsvxf4jSSUvZK04HxDQ=s88-mo-c-c0xffffffff-rj-k-no",
+         "width": 88,
+         "height": 88
+        },
+        "medium": {
+         "url": "https://yt3.ggpht.com/a-/AAuE7mCvPXKWGx91K7sVzn-Qsvxf4jSSUvZK04HxDQ=s240-mo-c-c0xffffffff-rj-k-no",
+         "width": 240,
+         "height": 240
+        },
+        "high": {
+         "url": "https://yt3.ggpht.com/a-/AAuE7mCvPXKWGx91K7sVzn-Qsvxf4jSSUvZK04HxDQ=s800-mo-c-c0xffffffff-rj-k-no",
+         "width": 800,
+         "height": 800
+        }
+       },
+       "localized": {
+        "title": "Anartz Mugika Ledo",
+        "description": "La temática del canal trata sobre todo de walktroughs de juegos actuales principalmente.\n\nSi quereís más información acerca de que hardware utilizo para grabar, que proyectos tengo completados, en proceso o en mis planes, entrad en el FAQ sobre mi canal que el enlace está justo debajo de esta descripción."
+       },
+       "country": "ES"
+      },
+      "contentDetails": {
+       "relatedPlaylists": {
+        "uploads": "UUTh7-deUJBNv2tHRiMGcXxg",
+        "watchHistory": "HL",
+        "watchLater": "WL"
+       }
+      }
+     }
+    ]
+   }

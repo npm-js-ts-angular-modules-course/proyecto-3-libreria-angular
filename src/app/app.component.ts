@@ -1,3 +1,4 @@
+import { ApiService } from 'ng-youtube-api';
 import { Component } from '@angular/core';
 
 @Component({
@@ -7,4 +8,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'libreriasAngular';
+
+  constructor(private api: ApiService) {}
+
 }

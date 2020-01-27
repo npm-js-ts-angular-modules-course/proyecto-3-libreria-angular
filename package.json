@@ -8,9 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "build.github.lib": "ng build githubUserWidget && cp -R ./projects/github-user-widget/src/lib/assets ./dist/github-user-widget/lib",
-    "publish.github.lib": "cd ./dist/github-user-widget/ && npm publish"
-
+    "build.youtube.lib": "ng build mugan86-youtube-api && ncp ./projects/mugan86-youtube-api/src/lib/assets ./dist/mugan86-youtube-api/lib"
   },
   "private": true,
   "dependencies": {
@@ -22,8 +20,10 @@
     "@angular/platform-browser": "~7.2.0",
     "@angular/platform-browser-dynamic": "~7.2.0",
     "@angular/router": "~7.2.0",
+    "@ng-bootstrap/ng-bootstrap": "^4.1.0",
     "core-js": "^2.5.4",
-    "proyecto-1b-api-github": "^1.1.0",
+    "ncp": "^2.0.0",
+    "ng-youtube-api": "^1.0.0",
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
     "zone.js": "~0.8.26"

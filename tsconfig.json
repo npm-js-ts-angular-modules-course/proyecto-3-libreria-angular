@@ -19,11 +19,11 @@
       "dom"
     ],
     "paths": {
-      "github-user-widget": [
-        "dist/github-user-widget"
+      "mugan86-youtube-api": [
+        "dist/mugan86-youtube-api"
       ],
-      "github-user-widget/*": [
-        "dist/github-user-widget/*"
+      "mugan86-youtube-api/*": [
+        "dist/mugan86-youtube-api/*"
       ]
     }
   }
