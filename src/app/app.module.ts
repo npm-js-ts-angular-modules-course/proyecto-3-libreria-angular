@@ -1,4 +1,4 @@
-import { GithubUserWidgetModule } from 'github-user-widget';
+import { GithubUserWidgetModule } from './../../projects/github-user-widget/src/public_api';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
